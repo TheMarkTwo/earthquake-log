@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "76PCr0FbYYQXOA61yWYFyX7erB9S70t+Jij9FdotT2x5v+gmmXn/bUSqMS2zzal8vyKfzTpW9dGm0+MJXdpKwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matija Lovrekovic\\Desktop\\EarthQuakeLog\\EarthQuakeLog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matija Lovrekovic\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
