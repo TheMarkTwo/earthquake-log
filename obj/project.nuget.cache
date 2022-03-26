@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "76PCr0FbYYQXOA61yWYFyX7erB9S70t+Jij9FdotT2x5v+gmmXn/bUSqMS2zzal8vyKfzTpW9dGm0+MJXdpKwQ==",
+  "dgSpecHash": "YdqutbT16PfeslZ+RmRF2OnAck7g7S0t4EqKlBrEjt1uUJLC4nyfsB3kkKZJDGnVa+Sl38Py2HKvfjXz7QkzKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Matija Lovrekovic\\Desktop\\EarthQuakeLog\\EarthQuakeLog.csproj",
+  "projectFilePath": "C:\\Users\\Matija\\Documents\\eqlog\\earthquake-log\\EarthQuakeLog.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Matija Lovrekovic\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+    "C:\\Users\\Matija\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Matija\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Matija\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Matija\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Matija\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
   ],
   "logs": []
 }

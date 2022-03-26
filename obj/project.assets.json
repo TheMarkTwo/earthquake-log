@@ -52,25 +52,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Matija Lovrekovic\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Matija\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matija Lovrekovic\\Desktop\\EarthQuakeLog\\EarthQuakeLog.csproj",
+      "projectUniqueName": "C:\\Users\\Matija\\Documents\\eqlog\\earthquake-log\\EarthQuakeLog.csproj",
       "projectName": "EarthQuakeLog",
-      "projectPath": "C:\\Users\\Matija Lovrekovic\\Desktop\\EarthQuakeLog\\EarthQuakeLog.csproj",
-      "packagesPath": "C:\\Users\\Matija Lovrekovic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matija Lovrekovic\\Desktop\\EarthQuakeLog\\obj\\",
+      "projectPath": "C:\\Users\\Matija\\Documents\\eqlog\\earthquake-log\\EarthQuakeLog.csproj",
+      "packagesPath": "C:\\Users\\Matija\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Matija\\Documents\\eqlog\\earthquake-log\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Matija Lovrekovic\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Matija\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -110,12 +110,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.15, 5.0.15]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
