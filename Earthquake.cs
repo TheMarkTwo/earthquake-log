@@ -12,7 +12,7 @@ namespace EarthQuakeLog
         public string Place { get; set; }
         public long Time { get; set; }
         public string Alert { get; set; }
-        public string Url { get; set; } //kneza gej
+        public string Url { get; set; }
         public string Title { get; set; }
         public double X { get; set; }
         public double Y { get; set; }
