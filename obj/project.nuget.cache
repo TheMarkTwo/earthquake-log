@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "76PCr0FbYYQXOA61yWYFyX7erB9S70t+Jij9FdotT2x5v+gmmXn/bUSqMS2zzal8vyKfzTpW9dGm0+MJXdpKwQ==",
+  "dgSpecHash": "QnWziM/MHz49uyIoSQQ3wNGuP2xRxzpfyOn/MW5GfLItqS0ZC8Vhcmv3Kfsziz8MBdJqemlqrNKgU9u4hv076A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Matija Lovrekovic\\Desktop\\EarthQuakeLog\\EarthQuakeLog.csproj",
+  "projectFilePath": "E:\\Radnom\\EarthQuakeLog\\EarthQuakeLog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matija Lovrekovic\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],
